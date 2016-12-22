@@ -1,0 +1,32 @@
+beer,Spotted Cow,Cream Ale,5.10,Wisconsin
+beer,Bud Light,Light Lager,4.30,Missouri
+beer,Heineken Lager Beer,Euro Pale Lager,5.00,Netherlands
+beer,Guiness Draught Beer,Irish Dry Stout,4.30,Ireland
+beer,Surly Furious,American IPA,6.60,Minnesota
+beer,Carlsberg,Pilsner,5.00,Denmark
+beer,Corona Light,Light Lager,4.10,Mexico
+beer,Lagunitas Sucks,Imperial IPA,7.85,California
+beer,Coors Light,Light Lager,4.20,Colorado
+beer,Blue Moon Belgian White,Witbier,5.40,Colorado
+beer,Shock Top Belgian White,Witbier,5.20,Missouri
+beer,Miller Lite,Light Lager,4.17,Wisconsin
+wine,Pinot Noir,13,Red
+wine,Cabernet Sauvignon,11,Red
+wine,Chardonnay,16,White
+wine,Sauvignon Blanc,12,White
+wine,Syrah,14,Red
+wine,Zinfandel,11,Red
+wine,Pinot Gris,12,White
+wine,Riesling,12,White
+liquor,Skyy Vodka,Vodka,40
+liquor,Ciroc,Vodka,41
+liquor,Grey Goose,Vodka,39.6
+liquor,Romanov,Vodka,44.6
+liquor,Jim Bean,Whiskey,37
+liquor,Jack Daniels Old No. 7,Whiskey,40
+liquor,Glenlivet 12,Whiskey,40
+liquor,Captain Morgan,Rum,34
+liquor,Bacardi White,Rum,37
+liquor,Old Monk,Rum,43
+liquor,Jose Cuervo Original,Tequila,40
+liquor,Cafe Patron,Tequila,35
